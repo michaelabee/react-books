@@ -2,8 +2,11 @@
 
 ## Technologies Used
 React
+
 Express
+
 Node 
+
 Google Books API
 
 ## Starting the app locally
